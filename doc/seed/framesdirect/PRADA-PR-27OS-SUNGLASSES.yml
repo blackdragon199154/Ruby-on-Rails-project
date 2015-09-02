@@ -1,0 +1,84 @@
+---
+:name: PRADA PR 27OS SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Women
+:material: Acetate
+:colors:
+- :name: Black / Grey Gradient Lens (1AB3M1)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Prada-Sun-PR27OS-BlackGrayGradient-1AB3M1.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6
+- :name: Brown / Brown Gradient Lens (KAL1Z1)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Prada-Sun-PR27OS-BrownBrownGradient-KAL1Z1.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6
+- :name: Havana / Brown Gradient Lens (2AU6S1)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Prada-Sun-PR27OS-HavanaBrownGradient-2AU6S1.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6
+- :name: Havana / Gray Gradient Lens (QFL0A7)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-27OS-QFL0A7.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6
+- :name: Havana Spotted Blue / Brown Gradient Lens (NAG0A4)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-27OS-NAG0A4.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6
+- :name: Red Gradient / Brown Gradient Lens (MAX0A5)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-27OS-MAX0A5.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6
+- :name: Transparent Gray / Gray Gradient Lens (KAM0A7)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Prada-Sun-PR27OS-TransparentGrayGrayGradient-KAM0A7.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 19.0
+    :temple: 135.0
+    :b: 41.6

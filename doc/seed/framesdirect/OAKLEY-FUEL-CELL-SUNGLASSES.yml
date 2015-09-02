@@ -1,0 +1,193 @@
+---
+:name: OAKLEY FUEL CELL SUNGLASSES
+:description: |-
+  Summary:
+  Additional Information (PDF): Oakley Lens Color Guide
+  The Oakley Fuel Cell Sunglasses are one of the most popular Oakley frames
+  A multitude of lens and frame colors available.
+  Features the Oakley Hydrophobic® lens coating, which eliminates rain and sweat from sticking to the lens, also repelling natural skin oils.
+  Meets ANSI Z87.1 standards for impact resistance.
+  Signature O metal icon accents.
+  Constructed of lightweight Oakley O Matter® for all day comfort and durablility.
+  The Fuel Cell is available with Oakley True Digital Prescription Sunglass lenses as well.
+  100% UV protection.
+:brand: Oakley
+:gender: Unisex
+:material: O Matter
+:colors:
+- :name: Polished Black - Matte Black/ Warm Gray lenses (OO9096-01)
+  :price: 248.63
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Sun-FuelCell-PolishedBlack-MatteBlack-WarmGrey.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Polished Brown Smoke/ Dark Bronze lenses (OO9096-02)
+  :price: 248.63
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Fuel-Cell-Polished-Brown-Smoke-w-Dark-Bronze-OO9096-02-2100x998.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Black Ink / Emerald Mirrored Iridium (OO9096-85)
+  :price: 271.24
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-fuel-cell-sunglasses-OO9096-85.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Polished Black Ink / Emerald Mirrored Iridium Lens (OO9096-85)
+  :price: 271.24
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-fuel-cell-sunglasses-OO9096-85.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Polished Black Ink / Ruby Mirrored Iridium (OO9096-86)
+  :price: 271.24
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-fuel-cell-sunglasses-OO9096-86.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Polished Clear - Matte Clear/ Violet Mirrored Iridium lenses (OO9096-04)
+  :price: 271.24
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Sun-FuelCell-PolishedClear-MatteClear-VioletIridium.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Polished White - Matte White/ Black Mirrored Iridium lenses (OO9096-03)
+  :price: 271.24
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Sun-FuelCell-PolishedWhite-MatteWhite-BlackIridium.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Stephen Murray Signature - Polished Black / Black Iridium (OO9096-61)
+  :price: 316.44
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-fuel-cell-sun-polished-blk-OO9096-61.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Infinite Hero - Carbon / Violet Mirrored Iridium Lens (OO9096-36)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Fuel-cell-sunglasses-OO9096-36.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Team USA - Dark Grey / Grey Lens (OO9096-55)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-Fuel-Cell-sunglasses-OO9096-55.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Matte Black/ Gray Polarized lenses (OO9096-05)
+  :price: 361.65
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Fuel-Cell-Matte-Black-Matte-Black-w-Grey-Polarized-OO9096-05-2100x1029.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Black - Gray Historty Text/ Black Mirrored Iridium Polarized lenses (OO9096-07)
+  :price: 384.25
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Sun-FuelCell-Black-GreyHistoryText-BlackIridiumPolar.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Matte Black Ink / Ice Mirrored Iridium Polarized Lens (OO9096-84)
+  :price: 384.25
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Fuell-cell-sunglasses-OO9096-84.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Polished Black Ink / Black Mirrored Iridium Polarized Lens (OO9096-83)
+  :price: 384.25
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-fuel-cell-sunglasses-OO9096-83.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Breast Cancer - Matte Black / OO Black Mirrored Iridium Polarized (OO9096-80)
+  :price: 406.85
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-fuel-cell-sunglasses-OO9096-80.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4
+- :name: Ducati - Matte Black / Grey Polarized (OO9096-44)
+  :price: 406.85
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Fuel-cell-sunglasses-OO9096-44.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 19.0
+    :temple: 130.0
+    :b: 39.4

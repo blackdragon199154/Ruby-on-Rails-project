@@ -1,0 +1,67 @@
+---
+:name: PERSOL PO3021S SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Black / Crystal Green Lens (95/31)
+  :price: 340.92
+  :retail_price: 454.57
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Perso-Sun-3021S-Black-CrystalGreen-9531.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 38.9
+  - :eye: 56.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 41.1
+- :name: Sand Black / Crystal Green Lens (900/31)
+  :price: 340.92
+  :retail_price: 454.57
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Perso-Sun-3021S-SandBlackCrystalGreen-90031.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 38.9
+  - :eye: 56.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 41.1
+- :name: Sandblast Havana / Crystal Green Lens (899/31)
+  :price: 340.92
+  :retail_price: 454.57
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO3021AS-SandblastHavanaCrystalGreen-89931.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 38.9
+  - :eye: 56.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 41.1
+- :name: Havana Brown / Photo Polarized Green Lens (972/83)
+  :price: 460.81
+  :retail_price: 614.42
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO3021AS-HavanBrownPhotoPolarGreen-97283.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 38.9
+  - :eye: 56.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 41.1

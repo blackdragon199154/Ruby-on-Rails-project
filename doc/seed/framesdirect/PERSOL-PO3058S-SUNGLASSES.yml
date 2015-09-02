@@ -1,0 +1,97 @@
+---
+:name: PERSOL PO3058S SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Women
+:material: Plastic
+:colors:
+- :name: Black / Crystal Gradient Gray Lens (95/71)
+  :price: 359.66
+  :retail_price: 479.55
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3058S-95-71.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 43.8
+  - :eye: 58.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 46.2
+- :name: Havana / Crystal Green Lens (24/31)
+  :price: 359.66
+  :retail_price: 479.55
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3058S-24-31.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 43.8
+  - :eye: 58.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 46.2
+- :name: Beige / Green Lens (900931)
+  :price: 378.4
+  :retail_price: 504.52
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3058S-900931.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 43.8
+  - :eye: 58.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 46.2
+- :name: Honey Havana / Gradient Brown Lens (900851)
+  :price: 378.4
+  :retail_price: 504.52
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3058S-900851.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 43.8
+  - :eye: 58.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 46.2
+- :name: Black / Polarized Grey Lens (900058)
+  :price: 442.09
+  :retail_price: 589.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3058S-900058.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 43.8
+  - :eye: 58.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 46.2
+- :name: Havana / Crystal Brown Polarized Lens (24/57)
+  :price: 442.09
+  :retail_price: 589.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3058S-24-57.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 43.8
+  - :eye: 58.0
+    :bridge: 20.0
+    :temple: 145.0
+    :b: 46.2

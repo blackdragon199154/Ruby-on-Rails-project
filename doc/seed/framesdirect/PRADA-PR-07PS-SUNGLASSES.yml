@@ -1,0 +1,73 @@
+---
+:name: PRADA PR 07PS SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Women
+:material: Acetate
+:colors:
+- :name: Havana / Brown Gradient Lens (2AU6S1)
+  :price: 411.31
+  :retail_price: 514.13
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-07PS-2AU6S1.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 43.4
+- :name: Havana Spotted Pink / Pink Gradient Lens (PDN0A5)
+  :price: 411.31
+  :retail_price: 514.13
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-07PS-PDN0A5.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 43.4
+- :name: Top Black-Medium Havana / Gray Gradient Lens (NAI0A7)
+  :price: 411.31
+  :retail_price: 514.13
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-07PS-NAI0A7.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 43.4
+- :name: Black / Gray Gradient Lens (1AB0A7)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-07PS-1AB0A7.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 43.4
+- :name: Havana Spotted Blue / Brown Gradient Lens (NAG0A4)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-07PS-NAG0A4.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 43.4
+- :name: Opal Olive Green / Brown Gradient Lens (MAR1X1)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-07PS-MAR1X1.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 43.4

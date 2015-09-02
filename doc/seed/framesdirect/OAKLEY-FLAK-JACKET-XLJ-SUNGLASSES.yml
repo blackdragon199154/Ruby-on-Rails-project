@@ -1,0 +1,220 @@
+---
+:name: OAKLEY FLAK JACKET XLJ SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Plastic
+:colors:
+- :name: Jet Black/ Black Mirrored Iridium lenses (03-915)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Flak-Jacket-XLJ-Jet-Black-w-Black-Iridium-03-915-1280x640-RGB.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-sun-flakjacketxlj-03915-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-sun-flakjacketxlj-03915-case.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-sun-flakjacketxlj-03915-front.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Infrared / Black Mirrored Iridium Lens (03-902)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flak-jacket-xlj-sunglasses-03-902.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Jet Black/ G30 Golf Specific lenses (03-921)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flakjacketXLJ-sunglasses-jetblackG30.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Matte White/ Jade Mirrored Iridium lenses (26-222)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flak-jacket-XLJ-sunglasse-26-222.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / Fire Mirror Iridium (03-899)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-XLJ-sunglasses-03-899.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / G30 Mirrored Iridium Lens (26-239)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-xlj-sunglasses-26-239.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / VR28 Black Mirrored Iridium Lens (26-242)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-xlj-sunglasses-26-242.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Navy / VR28 Black Mirrored Iridium (03-903)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flak-jacket-xlj-sunglasses-03-903.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished White / G30 Mirrored Iridium Lens (03-908)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flak-jacket-xlj-sunglasses-03-908.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished White/ Black Mirrored Iridium lenses (03-917)
+  :price: 339.05
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flakjacketXLJ-sunglasses-03-917.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Woodland Camo/ VR28 Black Mirrored Iridium lenses (24-153)
+  :price: 350.35
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flak-jacketXLJ-sunglasses-24-153.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Angling Specific - Polished Black / Deep Blue Polarized (26-232)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-XLJ-sunglasses-26-232.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Jet Black/ Black Mirrored Iridium Polarized lenses (12-903)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Flak-Jacket-XLJ-12-903.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Jet Black/ Shallow Blue Mirrored Iridium Polarized lenses (Fishing Specific)
+    (24-016)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Flak-Jacket-XLJ-Jet-Black-w-Shallow-Blue-Iridium-24-016-2100x885.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / Black Mirrored Iridium Polarized Lens (26-240)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-xlj-sunglasses-26-240.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / Bronze Mirrored Iridium Polarized Lens (26-243)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-xlj-sunglasses-26-243.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / G30 Mirrored Iridium Polarized Lens (03-909)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Flak-Jacket-xlj-sunglasses-03-909.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Polished Black / OO Red Mirrored Iridium Polarized Lens (26-241)
+  :price: 474.66
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-flak-jacket-xlj-sunglasses-26-241.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1
+- :name: Kevin Vandam - Polished Black/ Titanium MirroredIridium Polarized Lens (24-216)
+  :price: 542.47
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-flak-jacket-XLJ-sunglasses-24-216.jpg
+  :variants:
+  - {}
+  - :eye: 63.0
+    :bridge: 20.0
+    :temple: 0.0
+    :b: 39.1

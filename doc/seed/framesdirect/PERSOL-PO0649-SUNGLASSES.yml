@@ -1,0 +1,131 @@
+---
+:name: PERSOL PO0649 SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Havana / Crystal Brown Gradient Lens (24/51)
+  :price: 524.5
+  :retail_price: 699.34
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2451-52-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2451-52-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2451-52-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2451-52-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2451-52-Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1
+- :name: Havana / Crystal Brown Polarized Lens (24/57)
+  :price: 599.43
+  :retail_price: 799.24
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2457-54-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2457-54-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2457-54-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2457-54-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0649-2457-54-Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1
+- :name: Black / Crystal Green Lens (95/31)
+  :price: 524.5
+  :retail_price: 699.34
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol_sunglasses_PO0649__95_31.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1
+- :name: Havana / Crystal Green Lens (24/31)
+  :price: 524.5
+  :retail_price: 699.34
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol_sunglasses_PO0649__24_31.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+- :name: Light Havana / Crystal Brown Lens (96/33)
+  :price: 524.5
+  :retail_price: 699.34
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol_sunglasses_PO0649__96_33.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1
+- :name: Caffe' / Crystal Green Polarized Lens (108/58)
+  :price: 599.43
+  :retail_price: 799.24
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO0649-108-58.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1
+- :name: Tabacco Virginia / Polarized Brown Lens (985/57)
+  :price: 618.17
+  :retail_price: 824.22
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO0649-985-57.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1
+- :name: Terra Di Siena / Photo Polarized Green Lens (96/83)
+  :price: 618.17
+  :retail_price: 824.22
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO0649-96-83.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 20.0
+    :temple: 135.0
+    :b: 46.3
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 48.1

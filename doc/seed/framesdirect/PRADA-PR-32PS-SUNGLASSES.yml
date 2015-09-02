@@ -1,0 +1,62 @@
+---
+:name: PRADA PR 32PS SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Women
+:material: Plastic
+:colors:
+- :name: Black / Violet Gradient Lens (1AB4V1)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-32PS-1AB4V1.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 50.5
+- :name: Bordeaux Gradient / Gray Gradient Lens (MAX0A7)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-32PS-MAX0A7.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 50.5
+- :name: Violet Gradient / Violet Gradient Lens (OAD6P1)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-32PS-OAD6P1.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 50.5
+- :name: Black / Polarized Grey Lens (1AB5W1)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-32PS-1AB5W1.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 50.5
+- :name: Brown Gradient Gray / Polarized Brown Gradient Lens (PDM6E1)
+  :price: 524.21
+  :retail_price: 655.26
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-32PS-PDM6E1.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 50.5

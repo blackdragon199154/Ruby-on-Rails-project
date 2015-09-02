@@ -1,0 +1,101 @@
+---
+:name: RAY-BAN RB4147 SUNGLASSES
+:description: |-
+  Summary:
+  The Ray-Ban RB4147 sunglasses are one of the most popular Ray-Ban styles.
+  Ray-Ban® logo on the temples.
+  The Ray-Ban RB4147 sunglasses are made of durable propionate plastic.
+  Polarized options available.
+  Solid metal frame with crystal lenses.
+  Stylish squared tear drop shape, creates a Hollywood chic look.
+  Comes with protective case & cleaning cloth.
+  100%UV Protection.
+:brand: Ray-Ban
+:gender: Men
+:material: Propionate
+:colors:
+- :name: Light Havana / Crystal Brown Gradient Lens (710/51)
+  :price: 259.37
+  :retail_price: 327.74
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB4147_71051_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB4147_71051_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB4147_71051_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB4147_71051_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB4147_71051_Front_Lens.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 48.2
+- :name: Top Blue On Transparent / Green Lens (6040)
+  :price: 250.89
+  :retail_price: 316.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4147-6040.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 45.9
+- :name: Black / Crystal Grey Gradient Lens (601/32)
+  :price: 259.37
+  :retail_price: 327.74
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB4147__601_32.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 48.2
+- :name: Top Black On Transparent / Grey Gradient Azure Lens (603971)
+  :price: 259.37
+  :retail_price: 327.74
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4147-603971.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 45.9
+  - :eye: 60.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 48.2
+- :name: Top Light Grey On Light Blue / Grey Mirror Lens (604140)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4147-604140.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 45.9
+- :name: Black / Crystal Green Polarized Lens (601/58)
+  :price: 335.65
+  :retail_price: 429.46
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB4147__601_58.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 48.2
+- :name: Light Havana / Crystal Brown Polarized Lens (710/57)
+  :price: 335.65
+  :retail_price: 429.46
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB4147__710_57.jpg
+  :variants:
+  - {}
+  - :eye: 60.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 48.2

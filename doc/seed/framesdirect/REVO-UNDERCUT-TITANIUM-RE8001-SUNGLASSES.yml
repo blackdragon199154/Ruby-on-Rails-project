@@ -1,0 +1,42 @@
+---
+:name: REVO UNDERCUT TITANIUM RE8001 SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Titanium
+:colors:
+- :name: Pewter / Graphite Polarized Lens (RE8001-02)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Revo-undercut-sunglasses-8001-02.jpg
+  - http://www.framesdirect.com/product_elarge_images/revo-under-titanium-sunglasses-02-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/revo-under-titanium-sunglasses-02-front.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 16.0
+    :temple: 127.0
+    :b: 0.0
+- :name: Polished Black / Water Polarized Lens (8001 / 04)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Revo-Sun-RE8001-04.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 16.0
+    :temple: 127.0
+    :b: 0.0
+- :name: Polished Brown / Bronze Polarized Lens (RE8001-03)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Revo-undercut-sunglasses-8001-03.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 16.0
+    :temple: 127.0
+    :b: 0.0

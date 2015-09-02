@@ -1,0 +1,55 @@
+---
+:category: Eyeglasses
+:name: GUCCI GG1008 EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Nylon
+:colors:
+- :name: Shiny Black / Black (052R)
+  :price: 440.44
+  :retail_price: 587.25
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1008052R00.jpg
+  - http://www.framesdirect.com/product_elarge_images/gucci-eye-gg1008-052r-55-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/gucci-eye-gg1008-052r-55-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/gucci-eye-gg1008-052r-55-front.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 14.0
+    :temple: 150.0
+    :b: 43.5
+- :name: Blue Gray (0549)
+  :price: 440.44
+  :retail_price: 587.25
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1008054900.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 14.0
+    :temple: 150.0
+    :b: 43.5
+- :name: Brown / Green Red (053U)
+  :price: 440.44
+  :retail_price: 587.25
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1008053U00.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 14.0
+    :temple: 150.0
+    :b: 43.5
+- :name: Shiny Black / Red Green (051N)
+  :price: 440.44
+  :retail_price: 587.25
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1008051N00.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 14.0
+    :temple: 150.0
+    :b: 43.5

@@ -1,0 +1,633 @@
+---
+:name: COSTA CABALLITO SUNGLASSES
+:description: |-
+  Summary:
+  Additional Information (PDF): Everything Else about Costas
+  Costa del Mar was born from an idea that a group of fishermen had for reliable sunglasses. When the sun is up and you are out on the water, Costa del Mar sunglasses are perfect for battling the elements while going on adventures. All Costa del Mar sunglasses, including the Cost Del Mar Caballito Sunglasses, are made with the finest of technology to protect your eyes. The Costa Del Mar Caballito Sunglasses come with the following features:
+  Made of nylon, which is a lightweight, adjustable and highly durable material.
+  Costa symbol on temples.
+  Polarized lenses, which block intense reflected light and reduce glare.
+  Mirrored lenses (depending on frames), which is ideal for intense sunlight and glare.
+  Customizable lens colors and materials (see below for how to choose).
+  100% UV protection.
+  Hard case and cleaning cloth included.
+  Selecting a Lens Color
+  For fishing, hunting, driving, and any other activity where crystal clear optics are important, select one of these colors: copper, amber, green mirror, or silver mirror.
+  If you are light sensitive or in the sun for long periods of time, select gray or blue mirror.
+  Selecting a Lens Material
+  For active sports, select a polycarbonate or CR-39 (plastic) lens, which are impact resistant.
+  For fishing, hunting, or driving, select a glass lens or a mirrored lens, which are the clearest lenses on the planet.
+  All Blue and Green Mirrored Lenses Have a Full Mirror Coating -- Silver Mirrored Lenses Have a Flash Mirror Coating
+:brand: Costa
+:gender: Unisex
+:material: Nylon
+:colors:
+- :name: Black/ Green Mirror 400G LightWAVE Polarized Glass (CL-11-GMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-green-mirror.jpg
+  - http://www.framesdirect.com/product_elarge_images/costa-sun-caballitto-cl11gmglp-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/costa-sun-caballitto-cl11gmglp-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/costa-sun-case-1.jpg
+  - http://www.framesdirect.com/product_elarge_images/costa-sun-caballitto-cl11gmglp-front.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Amber 580P Polarized Polycarbonate (CL-11-OAP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-blk-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Copper 580P Polarized Polycarbonate (CL-11-OCP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Gray 580P Polarized Polycarbonate (CL-11-OGP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-blk-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Amber 580P Polarized Polycarbonate (CL-52-OAP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Copper 580P Polarized Polycarbonate (CL-52-OCP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Gray 580P Polarized Polycarbonate (CL-52-OGP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Amber 580P Polarized Polycarbonate (CL-39-OAP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-AMBER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Copper 580P Polarized Polycarbonate (CL-39-OCP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-COPPER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Gray 580P Polarized Polycarbonate (CL-39-OGP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-GRAY.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Amber 580P Polarized Polycarbonate (CL-41-OAP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Copper 580P Polarized Polycarbonate (CL-41-OCP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Gray 580P Polarized Polycarbonate (CL-41-OGP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise / Sunrise 580P Polarized Polycarbonate (CL-10-OSP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-tortoise-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Amber 580P Polarized Polycarbonate (CL-10-OAP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Copper 580P Polarized Polycarbonate (CL-10-OCP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Gray 580P Polarized Polycarbonate (CL-10-OGP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: White Black / Amber 580P Polarized Polycarbonate (CL-30-OAP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-white-blk-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: White Black / Copper 580P Polarized Polycarbonate (CL-30-OCP)
+  :price: 336.78
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-white-black-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Blue Mirror 400G LightWAVE Polarized Glass (CL-11-BMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-blk-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Blue Mirror 400G LightWAVE Polarized Glass (CL-52-BMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Green Mirror 400G LightWAVE Polarized Glass (CL-52-GMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Blue Mirror 400G LightWAVE Polarized Glass (CL-39-BMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-BLUE-L1.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Green Mirror 400G LightWAVE Polarized Glass (CL-39-GMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-CRYSTAL-GREEN-L1.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Blue Mirror 400G LightWAVE Polarized Glass (CL-41-BMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Green Mirror 400G LightWAVE Polarized Glass (CL-41-GMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Caballito-sunglasses-ocean-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Blue Mirror 400G LightWAVE Polarized Glass (CL-10-BMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Green Mirror 400G LightWAVE Polarized Glass (CL-10-GMGLP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black / Copper 580G LightWAVE Polarized Glass (CL-11-OCGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Gray 580G LightWAVE Polarized Glass (CL-11-OGGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-blk-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Copper 580G LightWAVE Polarized Glass (CL-52-OCGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Gray 580G LightWAVE Polarized Glass (CL-52-OGGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Copper 580G LightWAVE Polarized Glass (CL-39-OCGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-COPPER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Gray 580G LightWAVE Polarized Glass (CL-39-OGGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-GRAY.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Copper 580G LightWAVE Polarized Glass (CL-41-OCGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Gray 580G LightWAVE Polarized Glass (CL-41-OGGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise / Gray 580G LightWAVE Polarized Glass (CL-10-OGGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Copper 580G LightWAVE Polarized Glass (CL-10-OCGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: White Black / Copper 580G LightWAVE Polarized Glass (CL-30-OCGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-white-black-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Blue Mirror 580G LightWAVE Polarized Glass (CL-11-OBMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-blk-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Copper with Silver Mirror 580G LightWAVE Polarized Glass (CL-11-OSCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-BLK-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Black/ Green Mirror 580G LightWAVE Polarized Glass (CL-11-OGMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Blue Mirror 580G LightWAVE Polarized Glass (CL-52-OBMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Copper with Silver Mirror 580G LightWAVE Polarized Glass (CL-52-OSCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Coconut Fade / Green Mirror 580G LightWAVE Polarized Glass (CL-52-OGMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-coconut-fade-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Blue Mirror 580G LightWAVE Polarized Glass (CL-39-OBMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-sunglasses-CRYSTAL-BLUE-L1.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Copper with Silver Mirror 580G LightWAVE Polarized Glass (CL-39-OSCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-caballito-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Crystal / Green Mirror 580G LightWAVE Polarized Glass (CL-39-OGMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Caballito-CRYSTAL-GREEN-L1.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Blue Mirror 580G LightWAVE Polarized Glass (CL-41-OBMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-caballito-sunglasses-ocean-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Copper with SIlver Mirror 580G LightWAVE Polarized Glass (CL-41-OSCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-Caballito-OCEAN-SILVER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Ocean / Green Mirror 580G LightWAVE Polarized Glass (CL-41-OGMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Caballito-sunglasses-ocean-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Blue Mirror 580G LightWAVE Polarized Glass (CL-10-OBMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Copper with Silver Mirror 580G LightWAVE Polarized Glass (CL-10-OSCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Caballito-TORT-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: Tortoise/ Green Mirror 580G LightWAVE Polarized Glass (CL-10-OGMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-tort-green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0
+- :name: White Black/ Green Mirror 580G LightWAVE Polarized Glass (CL-30-OGMGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-caballito-sunglasses-white-blk-green-mir.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 135.0
+    :b: 35.0

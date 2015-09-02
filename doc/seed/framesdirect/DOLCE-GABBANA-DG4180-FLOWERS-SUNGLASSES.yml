@@ -1,0 +1,29 @@
+---
+:name: DOLCE & GABBANA DG4180 - FLOWERS SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Women
+:material: Plastic
+:colors:
+- :name: Black / Grey Lens (501/87)
+  :price: 938.66
+  :retail_price: 1251.53
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/dolce-gabbana-sun-0DG4180-501-87.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 49.1
+- :name: Crystal / Brown Mirror Gold Lens (656/6G)
+  :price: 938.66
+  :retail_price: 1251.53
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/dolce-gabbana-sun-0DG4180-656-6G.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 49.1

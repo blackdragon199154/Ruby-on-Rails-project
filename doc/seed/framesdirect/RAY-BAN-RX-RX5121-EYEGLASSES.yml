@@ -1,0 +1,48 @@
+---
+:category: Eyeglasses
+:name: RAY-BAN RX RX5121 EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Acetate
+:colors:
+- :name: Shiny Black (2000)
+  :price: 319.46
+  :retail_price: 399.33
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB5121_2000_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB5121_2000_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB5121_2000_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5121-2000-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB5121_2000_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB5121_2000_Front.jpg
+  :variants:
+  - {}
+  - :eye: 47.0
+    :bridge: 22.0
+    :temple: 145.0
+    :b: 38.8
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Yellow Havana (2291)
+  :price: 319.46
+  :retail_price: 399.33
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5121-2291-50-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5121-2291-50-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5121-2291-50-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5121-2291-50-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5121-2291-50-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5121-2291-50-Front.jpg
+  :variants:
+  - {}
+  - :eye: 47.0
+    :bridge: 22.0
+    :temple: 145.0
+    :b: 38.8
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0

@@ -1,0 +1,841 @@
+---
+:name: COSTA FANTAIL SUNGLASSES
+:description: |-
+  Summary:
+  Additional Information (PDF): Everything Else about Costas
+  A smaller, lighter version of the ever-popular Blackfin, the Costa Del Mar Fantail delivers its own classic styling
+  Cold-injected nylon and Hydrolite frames grip the skin more as you sweat
+  Costa Del Mar Fantail frames are all hand-assembled
+  Integral stainless steel hinges
+  580 lenses offer 100% UV protection and 100% polarization
+  Lens color options include: gray, amber, copper, blue mirror, green mirror silver mirror
+  580P features anti-reflective coating on the backside and an oleophobic, hydrophobic coating on the front (sheds water and oil)
+  All Blue and Green Mirrored Lenses Have a Full Mirror Coating -- Silver Mirrored Lenses Have a Flash Mirror Coating
+:brand: Costa
+:gender: Men
+:material: Nylon
+:colors:
+- :name: Black / Sunrise 580P Polarized Polycarbonate (TF-11-OSP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-black-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Amber 580P Polarized Polycarbonate (TF-11-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Copper 580P Polarized Polycarbonate (TF-11-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Gray 580P Polarized Polycarbonate (TF-11-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Amber 580P Polarized Polycarbonate (TF-01-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses--BLACKOUT-AMBER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Copper 580P Polarized Polycarbonate (TF-01-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-COPPER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Gray 580P Polarized Polycarbonate (TF-01-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-GRAY.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Amber 580P Polarized Polycarbonate (TF-18-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Copper 580P Polarized Polycarbonate (TF-18-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Gray 580P Polarized Polycarbonate (TF-18-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise / Sunrise 580P Polarized Polycarbonate (TF-10-OSP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-tortoise-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Amber 580P Polarized Polycarbonate (TF-10-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-Amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Copper 580P Polarized Polycarbonate (TF-10-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Gray 580P Polarized Polycarbonate (TF-10-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-Gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Amber 580P Polarized Polycarbonate (TF-25-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Copper 580P Polarized Polycarbonate (TF-25-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Gray 580P Polarized Polycarbonate (TF-25-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Amber 580P Polarized Polycarbonate (TF-65-OAP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Copper 580P Polarized Polycarbonate
+    (TF-65-OCP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Gray 580P Polarized Polycarbonate (TF-65-OGP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-grey.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Sunrise 580P Polarized Polycarbonate
+    (TF-65-OSP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-mossy-oak-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Amber 580P Polarized Polycarbonate (TF-69-OAP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Copper 580P Polarized Polycarbonate (TF-69-OCP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Gray 580P Polarized Polycarbonate (TF-69-OGP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Sunrise 580P Polarized Polycarbonate (TF-69-OSP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Blue Mirror 400G LightWAVE Polarized Glass (TF-11-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-blk-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Green Mirror 400G LightWAVE Polarized Glass (TF-11-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-green-Mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Blue Mirror 400G LightWAVE Polarized Glass (TF-01-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-BLUE.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Green Mirror 400G LightWAVE Polarized Glass (TF-01-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-GREEN.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Blue Mirror 400G LightWAVE Polarized Glass (TF-18-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Green Mirror 400G LightWAVE Polarized Glass (TF-18-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Blue Mirror 400G LightWAVE Polarized Glass (TF-10-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Green Mirror 400G LightWAVE Polarized Glass (TF-10-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-Green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Blue Mirror 400G LightWAVE Polarized Glass (TF-25-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Green Mirror 400G LightWAVE Polarized Glass (TF-25-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Blue Mirror 400G LightWAVE Polarized
+    Glass (TF-65-BMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Green Mirror 400G LightWAVE Polarized
+    Glass (TF-65-GMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Blue Mirror 400G LightWAVE Polarized Glass (TF-69-BMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Green Mirror 400G LightWAVE Polarized Glass (TF-69-GMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Copper 580G LightWAVE Polarized Glass (TF-11-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Gray 580G LightWAVE Polarized Glass (TF-11-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Copper 580G LightWAVE Polarized Glass (TF-01-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-COPPER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Gray 580G LightWAVE Polarized Glass (TF-01-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-GRAY.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Copper 580G LightWAVE Polarized Glass (TF-18-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Gray 580G LightWAVE Polarized Glass (TF-18-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise / Gray 580G LightWAVE Polarized Glass (TF-10-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-Gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Copper 580G LightWAVE Polarized Glass (TF-10-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Copper 580G LightWAVE Polarized Glass (TF-25-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Gray 580G LightWAVE Polarized Glass (TF-25-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Copper 580G LightWAVE Polarized Glass
+    (TF-65-OCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Gray 580G LightWAVE Polarized Glass
+    (TF-65-OGGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-grey.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Copper 580G LightWAVE Polarized Glass (TF-69-OCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Gray 580G LightWAVE Polarized Glass (TF-69-OGGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Blue Mirror 580G LightWAVE Polarized Glass (TF-11-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-blk-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Copper with Silver Mirror 580G LightWAVE Polarized Glass (TF-11-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Fantail-black-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Black/ Green Mirror 580G LightWAVE Polarized Glass (TF-11-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-fantail-sunglasses-blk-green-Mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Blue Mirror 580G LightWAVE Polarized Glass (TF-01-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-BLUE.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TF-01-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-Fantail-BLACKOUT-SILVER.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Blackout / Green Mirror 580G LightWAVE Polarized Glass (TF-01-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Fantail-Sunglasses-BLACKOUT-GREEN.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Blue Mirror 580G LightWAVE Polarized Glass (TF-18-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TF-18-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Silver / Green Mirror 580G LightWAVE Polarized Glass (TF-18-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-silver-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Blue Mirror 580G LightWAVE Polarized Glass (TF-10-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Copper with Silver Mirror 580G LightWAVE Polarized Glass (TF-10-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Fantail-Tort-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Tortoise/ Green Mirror 580G LightWAVE Polarized Glass (TF-10-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-fantail-sunglasses-tort-Green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Blue Mirror 580G LightWAVE Polarized Glass (TF-25-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TF-25-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: White / Green Mirror 580G LightWAVE Polarized Glass (TF-25-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-white-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Blue Mirror 580G LightWAVE Polarized
+    Glass (TF-65-OBMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-blue-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Copper with Silver Mirror 580G LightWAVE
+    Polarized Glass (TF-65-OSCGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-mossy-oak-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Green Mirror 580G LightWAVE Polarized
+    Glass (TF-65-OGMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-fantail-mossy-oak-green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Blue Mirror 580G LightWAVE Polarized Glass (TF-69-OBMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Copper with Silver Mirror 580G LightWAVE Polarized Glass
+    (TF-69-OSCGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Green Mirror 580G LightWAVE Polarized Glass (TF-69-OGMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-fantail-realtree-x-tra-camo-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 18.0
+    :temple: 120.0
+    :b: 38.0

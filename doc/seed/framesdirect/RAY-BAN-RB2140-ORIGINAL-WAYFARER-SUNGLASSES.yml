@@ -1,0 +1,428 @@
+---
+:name: RAY-BAN RB2140 ORIGINAL WAYFARER SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Acetate
+:colors:
+- :name: Black / Crystal Green Lens (901)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2140_901_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2140_901_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2140_901_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2140_901_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2140_901_Front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+  - :eye: 54.0
+    :bridge: 18.0
+    :temple: 150.0
+    :b: 47.2
+- :name: Tortoise / Crystal Green Lens (902)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-902-50-angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-902-50-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-902-50-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-902-50-case.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-902-50-front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+  - :eye: 54.0
+    :bridge: 18.0
+    :temple: 150.0
+    :b: 47.2
+- :name: Black On Red Texture / Crystal Green Lens (1016)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2140-1016-50-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2140-1016-50-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2140-1016-50-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2140-1016-50-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2140-1016-50-Front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Tortoise / Crystal Brown Polarized Lens (902/57)
+  :price: 352.61
+  :retail_price: 452.06
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-90257-54-angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-90257-54-side.JPG
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-90257-54-detail.JPG
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-90257-54-case.JPG
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2140-90257-54-front.JPG
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+  - :eye: 54.0
+    :bridge: 18.0
+    :temple: 150.0
+    :b: 47.2
+- :name: Matte Beige / Brown Lens (6063)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-6063.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Black / Green Lens (6065)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-6065.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Blue / Grey Silver Mirror Lens (606140)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-606140.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Military Green / Brown Gradient Dark Brown Lens (606285)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-606285.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Violet / Grey Gradient Azure Lens (606471)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-606471.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Demi Gloss Beige / Yellow Gradient Brown Photo Lens (6059X4)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-6059X4.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Demi Gloss Green / Green Gradient Green Lens (60583M)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-60583M.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Demi Gloss Ice / Blue Gradient Blue Lens (60554M)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-60554M.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Demi Gloss Lilac / Gradient Light Blue Lens (60603F)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-60603F.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Demi Gloss Pink / Pink Gradient Brown Photo Lens (6057X3)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-6057X3.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Demi Gloss Violet / Grey Gradient Lens (605632)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-605632.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Black On Transparent Azure / Crystal Gradient Light Blue Lens (10013F)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB2140__10013F.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+  - :eye: 54.0
+    :bridge: 18.0
+    :temple: 150.0
+    :b: 47.2
+- :name: Top Black On Texture Plaid / Green Lens (1131)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-1131.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Black On Texture Surf / Green Lens (1136)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-1136.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Blue On Texture Plaid / Crystal Grey Gradient Lens (113471)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-113471.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Coral On Texture Surf / Crystal Grey Gradient Azure Lens (113971)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-113971.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Green On Texture Surf / Crystal Brown Lens (1140)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-1140.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Havana On Texture Plaid / Brown Gradient Lens (113285)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-113285.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Light Wood On Texture / Brown Gradient Lens (113885)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-113885.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Red On Texture Plaid / Brown Gradient Lens (113385)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-113385.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Texture Plaid On Black / Green Lens (1135)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-1135.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Texture Surf On Black / Green Lens (1137)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-1137.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Black / Crystal Green Polarized Lens (901/58)
+  :price: 352.61
+  :retail_price: 452.06
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-901-58.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+  - :eye: 54.0
+    :bridge: 18.0
+    :temple: 150.0
+    :b: 47.2
+- :name: Matte Black / Polarized Blue Lens (901S3R)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-901S3R.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Black / Polarized Green Lens (606658)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2140-606658.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Black / Polarized Green Lens (901SO5)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-901SO5.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Matte Black / Polarized Grey Lens (901SP2)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2140-901SP2.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Black On Blue / Green Lens (1112)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/x.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Black On Texture Plaid / Polarized Grey Lens (113158)
+  :price: 378.04
+  :retail_price: 485.96
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/x.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Havana On Texture Plaid / Polarized Brown Lens (113257)
+  :price: 378.04
+  :retail_price: 485.96
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/x.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0
+- :name: Top Text.Str.Green-br On / Crystal Gray Gr. Lens (102432)
+  :price: 539.08
+  :retail_price: 700.69
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/x.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 150.0
+    :b: 41.0

@@ -1,0 +1,102 @@
+---
+:category: Eyeglasses
+:name: RAY-BAN RX RX5184 EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Acetate
+:colors:
+- :name: Dark Havana (2012)
+  :price: 338.26
+  :retail_price: 422.82
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RX5184_2012_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RX5184_2012_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RX5184_2012_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RX5184_2012_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RX5184_2012_Front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.1
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 38.6
+- :name: Shiny Black (2000)
+  :price: 338.26
+  :retail_price: 422.82
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_RB5184_2000_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_RB5184_2000_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_RB5184_2000_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_RB5184_2000_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_RB5184_2000_Front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.1
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 38.6
+- :name: Striped Brown (5139)
+  :price: 338.26
+  :retail_price: 422.82
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Rayban-RX05184-eyeglasses-5139.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 38.6
+- :name: Top Dark Havana On Orange (5160)
+  :price: 338.26
+  :retail_price: 422.82
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5184-5160.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.1
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 38.6
+- :name: Top Dark Havana On Viole (5215)
+  :price: 338.26
+  :retail_price: 422.82
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5184-5215.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.1
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 38.6
+- :name: Top Light Havana On Green (5161)
+  :price: 338.26
+  :retail_price: 422.82
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5184-5161.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.1
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 38.6

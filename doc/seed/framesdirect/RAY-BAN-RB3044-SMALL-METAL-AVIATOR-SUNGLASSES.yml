@@ -1,0 +1,82 @@
+---
+:name: RAY-BAN RB3044 SMALL METAL AVIATOR SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Metal
+:colors:
+- :name: Arista / Crystal Green Lens (L0207)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB3044_L0207_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB3044_L0207_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB3044_L0207_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb3044-l0207-52-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB3044_L0207_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB3044_L0207_Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 14.0
+    :temple: 135.0
+    :b: 44.2
+- :name: Gunmetal / Crystal Green Lens (W3100)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB3044_W3100_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB3044_W3100_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB3044_W3100_Front_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB3044_W3100_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB3044_W3100_Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 14.0
+    :temple: 135.0
+    :b: 44.2
+- :name: Matte Black / Light Green Lens (006/14)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3044-006-14.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 14.0
+    :temple: 135.0
+    :b: 44.2
+- :name: Matte Gold / Light Blue Lens (112/62)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3044-112-62.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 14.0
+    :temple: 135.0
+    :b: 44.2
+- :name: Matte Gunmetal / Brown Lens (029/53)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3044-029-53.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 14.0
+    :temple: 135.0
+    :b: 44.2
+- :name: Matte Silver / Pink Lens (019/4B)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3044-019-4B.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 14.0
+    :temple: 135.0
+    :b: 44.2

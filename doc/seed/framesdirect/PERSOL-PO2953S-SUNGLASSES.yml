@@ -1,0 +1,67 @@
+---
+:name: PERSOL PO2953S SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Caffe' / Polarized Grey Lens (108/58)
+  :price: 430.84
+  :retail_price: 574.46
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO2953S-108-58.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 39.0
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 41.2
+- :name: Shiny Black / Crystal Green Polarized Lens (95/58)
+  :price: 442.09
+  :retail_price: 589.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol_sunglasses_PO2953S__95_58.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 39.0
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 41.2
+- :name: Tabacco Virginia / Polarized Brown Lens (985/57)
+  :price: 442.09
+  :retail_price: 589.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO2953S-985-57.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 39.0
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 41.2
+- :name: Terra Di Siena / Photo Polarized Green Lens (96/83)
+  :price: 449.57
+  :retail_price: 599.43
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO2953S-96-83.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 39.0
+  - :eye: 56.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 41.2

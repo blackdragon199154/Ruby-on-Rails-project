@@ -1,0 +1,88 @@
+---
+:category: Eyeglasses
+:name: RAY-BAN RX RX5245 EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Top Black On Transparent (2034)
+  :price: 263.09
+  :retail_price: 328.86
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_Eye_RX5245_2034_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_Eye_RX5245_2034_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_Eye_RX5245_2034_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5245-2034-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_Eye_RX5245_2034_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX_Eye_RX5245_2034_Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 33.4
+  - :eye: 54.0
+    :bridge: 17.0
+    :temple: 145.0
+    :b: 34.7
+- :name: Top Blue On Havana (5219)
+  :price: 263.09
+  :retail_price: 328.86
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5245-5219.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 33.4
+  - :eye: 54.0
+    :bridge: 17.0
+    :temple: 145.0
+    :b: 34.7
+- :name: Top Brown On Havana (5220)
+  :price: 263.09
+  :retail_price: 328.86
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5245-5220.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 33.4
+  - :eye: 54.0
+    :bridge: 17.0
+    :temple: 145.0
+    :b: 34.7
+- :name: Top Green On Havana (5221)
+  :price: 263.09
+  :retail_price: 328.86
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5245-5221.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 33.4
+  - :eye: 54.0
+    :bridge: 17.0
+    :temple: 145.0
+    :b: 34.7
+- :name: Top Havana On Transparen (5082)
+  :price: 263.09
+  :retail_price: 328.86
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RaybanRX_eyeglasses_RX5245__5082.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 17.0
+    :temple: 140.0
+    :b: 33.4
+  - :eye: 54.0
+    :bridge: 17.0
+    :temple: 145.0
+    :b: 34.7

@@ -1,0 +1,97 @@
+---
+:name: RAY-BAN RB4165 JUSTIN SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Propionate
+:colors:
+- :name: Rubber Black / Grey Gradient Lens (601/8G)
+  :price: 208.51
+  :retail_price: 259.93
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4165-601-8G.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 42.3
+  - :eye: 54.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Rubber Brown On Grey / Green Gradient Lens (854/7Z)
+  :price: 208.51
+  :retail_price: 259.93
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB4165__854_7Z.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 42.3
+  - :eye: 54.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Rubber Dark Violet / Grey Silver Mirror Gradient Lens (602488)
+  :price: 208.51
+  :retail_price: 259.93
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-0RB4165-602488.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 42.3
+  - :eye: 54.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Rubber Grey-Grey Transparent / Grey Silver Mirror Gradient Lens (852/88)
+  :price: 208.51
+  :retail_price: 259.93
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB4165__852_88.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 42.3
+  - :eye: 54.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Rubber Light Havana / Brown Gradient Lens (710/13)
+  :price: 208.51
+  :retail_price: 259.93
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4165-710-13.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 42.3
+  - :eye: 54.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Rubber Azure / Blue Mirror Lens (602855)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4165-602855.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 42.3
+  - :eye: 54.0
+    :bridge: 16.0
+    :temple: 145.0
+    :b: 43.9

@@ -1,0 +1,592 @@
+---
+:name: COSTA BLACKFIN SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Nylon
+:colors:
+- :name: Black / Amber 580P Polarized Polycarbonate (BL-11-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-AMBR.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Copper 580P Polarized Polycarbonate (BL-11-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-CpR580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Gray 580P Polarized Polycarbonate (BL-11-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-GRY.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Sunrise 580P Polarized Polycarbonate (BL-11-OSP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-black-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Amber 580P Polarized Polycarbonate (BL-71-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-amber.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Copper 580P Polarized Polycarbonate (BL-71-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Gray 580P Polarized Polycarbonate (BL-71-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-gray.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Amber 580P Polarized Polycarbonate (BL-70-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-amber.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Copper 580P Polarized Polycarbonate (BL-70-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Gray 580P Polarized Polycarbonate (BL-70-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-gray.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Amber 580P Polarized Polycarbonate (BL-10-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Amber.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Copper 580P Polarized Polycarbonate (BL-10-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Blackfin-TORT-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Gray 580P Polarized Polycarbonate (BL-10-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Gry580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Sunrise 580P Polarized Polycarbonate (BL-10-OSP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Amber 580P Polarized Polycarbonate (BL-69-OAP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-amber.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Copper 580P Polarized Polycarbonate (BL-69-OCP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Gray 580P Polarized Polycarbonate (BL-69-OGP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-gray.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Sunrise 580P Polarized Polycarbonate (BL-69-OSP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Blue Mirror 400G LightWAVE Polarized Glass (BL-11-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-BLU.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Green Mirror 400G LightWAVE Polarized Glass (BL-11-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-GRN.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Blue Mirror 400G LightWAVE Polarized Glass (BL-71-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Green Mirror 400G LightWAVE Polarized Glass (BL-71-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Blue Mirror 400G LightWAVE Polarized Glass (BL-70-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Green Mirror 400G LightWAVE Polarized Glass (BL-70-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Blue Mirror 400G LightWAVE Polarized Glass (BL-10-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Green Mirror 400G LightWAVE Polarized Glass (BL-10-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Blue Mirror 400G LightWAVE Polarized Glass (BL-69-BMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Green Mirror 400G LightWAVE Polarized Glass (BL-69-GMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Copper 580G LightWAVE Polarized Glass (BL-11-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-CpR580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Gray 580G LightWAVE Polarized Glass (BL-11-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-GRy580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Copper 580G LightWAVE Polarized Glass (BL-71-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Gray 580G LightWAVE Polarized Glass (BL-71-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-gray.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Copper 580G LightWAVE Polarized Glass (BL-70-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Gray 580G LightWAVE Polarized Glass (BL-70-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-gray.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Copper 580G LightWAVE Polarized Glass (BL-10-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Blackfin-TORT-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Gray 580G LightWAVE Polarized Glass (BL-10-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Gry580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Copper 580G LightWAVE Polarized Glass (BL-69-OCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-copper.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Gray 580G LightWAVE Polarized Glass (BL-69-OGGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-gray.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Blue Mirror 580G LightWAVE Polarized Glass (BL-11-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-BLU580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Copper with Silver Mirror 580G LightWAVE Polarized Glass (BL-11-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Blackfin-BLK-silver.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Black / Green Mirror 580G LightWAVE Polarized Glass (BL-11-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-BL-11Blckfin-sunglasses-BLK-GRN580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Blue Mirror 580G LightWAVE Polarized Glass (BL-71-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Copper with Silver Mirror 580G LightWAVE Polarized Glass
+    (BL-71-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-silver.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Crystal Bronze / Green Mirror 580G LightWAVE Polarized Glass (BL-71-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-crystal-bronze-green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Blue Mirror 580G LightWAVE Polarized Glass (BL-70-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Copper with Silver Mirror 580G LightWAVE Polarized Glass (BL-70-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-silver.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Gunstock / Green Mirror 580G LightWAVE Polarized Glass (BL-70-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-gunstock-green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Blue Mirror 580G LightWAVE Polarized Glass (BL-10-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Blue580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Copper with Silver Mirror 580G LightWAVE Polarized Glass (BL-10-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Blackfin-TORT-silver.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Tortoise / Green Mirror 580G LightWAVE Polarized Glass (BL-10-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-Blackfin-sunglasses-Tort-Grn580.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Blue Mirror 580G LightWAVE Polarized Glass (BL-69-OBMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-blue.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Copper with Silver Mirror 580G LightWAVE Polarized Glass
+    (BL-69-OSCGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-silver.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0
+- :name: Realtree Xtra Camo / Green Mirror 580G LightWAVE Polarized Glass (BL-69-OGMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-blackfin-realtree-x-tra-camo-green.jpg
+  :variants:
+  - {}
+  - :eye: 60.5
+    :bridge: 18.0
+    :temple: 132.0
+    :b: 38.0

@@ -1,0 +1,67 @@
+---
+:name: RAY-BAN RB3507 SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Metal & Plastic
+:colors:
+- :name: Brushed Bronze-Gunmetal / Light Brown Lens (139/85)
+  :price: 344.13
+  :retail_price: 440.76
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3507-139-85.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Brushed Silver-Arista / Grey Mirror Lens (137/40)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3507-137-40.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Black-Arista / Polarized Green Lens (136/N5)
+  :price: 428.89
+  :retail_price: 553.77
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3507-136-N5.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Brushed Gunmetal-Gunmetal / Polarized Dark Grey Lens (138/M8)
+  :price: 428.89
+  :retail_price: 553.77
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3507-138-M8.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9

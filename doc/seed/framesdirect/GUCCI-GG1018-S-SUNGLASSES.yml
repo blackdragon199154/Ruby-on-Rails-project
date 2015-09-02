@@ -1,0 +1,84 @@
+---
+:name: GUCCI GG1018/S SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Nylon
+:colors:
+- :name: Blue / dark blue gradient (0I2D/KX)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0I2DKX.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1
+- :name: Green / gray gradient (0KR5/EU)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0KR5EU.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1
+- :name: Havana / brown gradient (0791/CC)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0791CC.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1
+- :name: Red / gray gradient (0SG8/JJ)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0SG8JJ.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1
+- :name: Shiny Black / gray gradient (0BIL/EU)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0BILEU.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1
+- :name: Solid Blue / azure flash silver (0HCM/UA)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0HCMUA.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1
+- :name: White / green gradient (0VK6/NC)
+  :price: 447.54
+  :retail_price: 596.72
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/F-GG1018S0VK6NC.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 17.0
+    :temple: 135.0
+    :b: 50.1

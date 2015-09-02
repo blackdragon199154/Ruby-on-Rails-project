@@ -1,0 +1,59 @@
+---
+:name: TOM FORD CHARLES FT0035 SUNGLASSES
+:description: |-
+  Summary:
+  Tom Ford specializes in in high end fashion, the styles and artistic direction of the brand is modern and highly fashion centered, the sunglasses collection is no exception to the rule. Uniquely original frames as well as edgy interpretations of classic shapes populate this collection and make it one of the most highly sought after today.
+  The Tom Ford FT0035 Charles Sunglasses are a stylish frame designed for men.
+  The aviator frame is perfect for a variety of face shapes.
+  Adjustable nosepads for added comfort.
+  The FT0035 Charles Sunglasses come in two color options.
+  Metal frame.
+  Comes with carrying case & cleaning cloth.
+:brand: Tom Ford
+:gender: Men
+:material: Metal
+:colors:
+- :name: Shiny Palladium / Gradient Dark Grey (753)
+  :price: 564.89
+  :retail_price: 706.12
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord_FT0035S_753.jpg
+  :variants:
+  - {}
+  - :eye: 62.0
+    :bridge: 12.0
+    :temple: 130.0
+    :b: 0.0
+- :name: Shiny Rose Gold / Brown Gradient (772)
+  :price: 564.89
+  :retail_price: 706.12
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord_FT0035S_772.jpg
+  :variants:
+  - {}
+  - :eye: 62.0
+    :bridge: 12.0
+    :temple: 130.0
+    :b: 0.0
+- :name: Matte Black / Smoke Polarized (02D)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-0035-eyeglasses-02D.jpg
+  :variants:
+  - {}
+  - :eye: 62.0
+    :bridge: 12.0
+    :temple: 130.0
+    :b: 0.0
+- :name: Shiny Rose Gold / Brown Polarized (28H)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-0035-eyeglasses-28H.jpg
+  :variants:
+  - {}
+  - :eye: 62.0
+    :bridge: 12.0
+    :temple: 130.0
+    :b: 0.0

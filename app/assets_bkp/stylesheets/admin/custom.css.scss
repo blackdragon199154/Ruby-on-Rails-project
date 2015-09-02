@@ -1,0 +1,44 @@
+@import 'globals/variables_override';
+
+.select2-search {
+    input {
+        margin-left: 4px;
+    }
+
+    &::before {
+        top: 16px;
+        left: 12px;
+    }
+}
+
+#product-types-sub-menu {
+    background-color: $color-3;
+    padding-bottom: 0;
+
+    li {
+        a {
+            display: block;
+            padding: 12px 20px;
+            color: $color-1;
+            text-align: center;
+            text-transform: uppercase;
+            position: relative;
+            font-size: 85%;
+        }
+
+        &.selected a, a:hover {
+            &:after {
+                content: '';
+                position: absolute;
+                border-left: 10px solid transparent;
+                border-right: 10px solid transparent;
+                border-top: 5px solid $color-3;
+                bottom: 0px;
+                margin-bottom: -5px;
+                left: 50%;
+                margin-left: -10px;
+                z-index: 1;
+            }
+        }
+    }
+}

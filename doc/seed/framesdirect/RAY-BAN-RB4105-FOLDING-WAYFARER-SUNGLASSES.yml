@@ -1,0 +1,177 @@
+---
+:name: RAY-BAN RB4105 FOLDING WAYFARER SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Propionate
+:colors:
+- :name: Black / Crystal Green Lens (601)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB4105-601-54-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB4105-601-54-Front.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB4105-601-54-Detail.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8
+- :name: Light Havana / Crystal Brown Lens (710)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-710-54-angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-710-54-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-710-54-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-710-54-detail2.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-710-54-front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8
+- :name: Matte Black / Crystal Green Mirror Blue Lens (601S68)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-601s68-angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-601s68-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-601s68-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-601s68-case.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb4105-601s68-front.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+- :name: Black / Crystal Grey Gradient Lens (601/32)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Ray-ban-4105-sunglasses-601-32-1.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+- :name: Light Havana / Crystal Brown Gradient Lens (710/51)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Ray-ban-4105-sunglasses-710-51-1.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+- :name: Matte Blue / Crystal Green Mirror Blue Lens (602017)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4105-602017.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8
+- :name: Matte Green / Crystal Green Mirror Green Lens (602119)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4105-602119.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8
+- :name: Matte Grey / Green Mirror Silver Lens (602230)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4105-602230.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8
+- :name: Matte Orange / Crystal Brown Mirror Orange Lens (601969)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB4105-601969.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8
+- :name: Matte Red / Brown Mirror Pink Lens (6050Z2)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB4105-6050Z2.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+- :name: Matte Yellow / Brown Mirror Gold Lens (605193)
+  :price: 293.27
+  :retail_price: 372.95
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB4105-605193.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+- :name: Black / Crystal Green Polarized Lens (601/58)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-4105-sunglasses-601-58-2.jpg
+  :variants:
+  - {}
+  - :eye: 50.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 41.5
+  - :eye: 54.0
+    :bridge: 20.0
+    :temple: 140.0
+    :b: 47.8

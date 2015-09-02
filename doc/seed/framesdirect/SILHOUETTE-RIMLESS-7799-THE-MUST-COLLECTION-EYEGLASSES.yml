@@ -1,0 +1,524 @@
+---
+:category: Eyeglasses
+:name: SILHOUETTE RIMLESS 7799 THE MUST COLLECTION EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Metal
+:colors:
+- :name: Matte Copper (6069)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Copper.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Matte Fossil (6107)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Fossil_6107.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Matte Gold (6073)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_MatGold_6073.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Matte Silver Gray (6061)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMust_SilverGrey_6061.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Cocoa Brown (6062)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Brown.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Indigo Blue (6054)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Indigo_6054.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Jet Back (6074)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Black_6074.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Mauve Shadow (6057)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Muave_6057.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Pinecone (6102)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMust_Pinecone_6102.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Sterling Silver (6050)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Silver_6050.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny True Gold (6051)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Gold_6051.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+- :name: Shiny Wine (6066)
+  :price: 525.96
+  :retail_price: 751.39
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Silhouette_7799_TheMustCollection_Wine_6066.jpg
+  :variants:
+  - {}
+  - :eye: 48.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 48.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 35.8
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 50.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 19.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 150.0
+    :b: 0.0
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 160.0
+    :b: 0.0

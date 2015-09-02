@@ -1,0 +1,59 @@
+---
+:name: RAY-BAN RB3506 SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Metal
+:colors:
+- :name: Gunmetal / Green Lens (004/71)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3506-004-71.jpg
+  :variants:
+  - {}
+  - :eye: 64.0
+    :bridge: 13.0
+    :temple: 135.0
+    :b: 42.9
+- :name: Gunmetal / Brown Gradient Lens (004/13)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3506-004-13.jpg
+  :variants:
+  - {}
+  - :eye: 64.0
+    :bridge: 13.0
+    :temple: 135.0
+    :b: 42.9
+- :name: Gunmetal / Polarized Brown Lens (132/83)
+  :price: 327.18
+  :retail_price: 418.16
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3506-132-83.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 135.0
+    :b: 40.9
+  - :eye: 64.0
+    :bridge: 13.0
+    :temple: 135.0
+    :b: 42.9
+- :name: Matte Gunmetal / Polarized Green Lens (029/9A)
+  :price: 327.18
+  :retail_price: 418.16
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3506-029-9A.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 135.0
+    :b: 40.9
+  - :eye: 64.0
+    :bridge: 13.0
+    :temple: 135.0
+    :b: 42.9

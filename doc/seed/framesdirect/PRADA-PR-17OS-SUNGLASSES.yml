@@ -1,0 +1,51 @@
+---
+:name: PRADA PR 17OS SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Women
+:material: Acetate
+:colors:
+- :name: Black / Gray Gradient Lens (1AB0A7)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Prada-Sun-17OS-BlackGrayGradient.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 48.4
+- :name: Havana / Gray Gradient Lens (QFL0A7)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR-17OS-QFL0A7.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 48.4
+- :name: Havana Spotted Blue / Brown Gradient Lens (NAG0A4)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/prada-sun-0PR17OS-NAG0A4.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 48.4
+- :name: Top Light Havana-Opal Yellow / Brown Gradient Lens (FAL1Z1)
+  :price: 443.56
+  :retail_price: 554.45
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Prada-Sun-17OS-TopLightHavanaBrownGradient.jpg
+  :variants:
+  - {}
+  - :eye: 54.0
+    :bridge: 22.0
+    :temple: 140.0
+    :b: 48.4

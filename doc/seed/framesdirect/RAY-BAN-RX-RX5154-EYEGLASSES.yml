@@ -1,0 +1,81 @@
+---
+:category: Eyeglasses
+:name: RAY-BAN RX RX5154 EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: Acetate
+:colors:
+- :name: Red Havana (2372)
+  :price: 341.11
+  :retail_price: 426.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5154-2372-49-angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5154-2372-49-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5154-2372-49-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-eye-rx5154-2372-49-front.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 38.3
+- :name: Shiny Black (2000)
+  :price: 341.11
+  :retail_price: 426.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5154-2000-49-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5154-2000-49-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5154-2000-49-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5154-2000-49-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBanRX-Eye-RX5154-2000-49-Front.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 38.3
+- :name: Matte Black (2077)
+  :price: 341.11
+  :retail_price: 426.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-0RX5154-2077.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 38.3
+- :name: Matte Stripped Green (5256)
+  :price: 341.11
+  :retail_price: 426.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-RX5154-5256.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 38.3
+- :name: Matte Stripped Grey (5255)
+  :price: 341.11
+  :retail_price: 426.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-RX5154-5255.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 38.3
+- :name: Matte Stripped Violet (5257)
+  :price: 341.11
+  :retail_price: 426.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-eye-RX5154-5257.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 38.3

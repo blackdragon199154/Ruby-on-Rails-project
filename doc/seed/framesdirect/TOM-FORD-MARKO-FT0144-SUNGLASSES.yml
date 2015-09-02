@@ -1,0 +1,84 @@
+---
+:name: TOM FORD MARKO FT0144 SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Metal
+:colors:
+- :name: Gunmetal / Brown Roviex (09J)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord-Sunglasses-0144-9J.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0
+- :name: Shiny Gunmetal / Gradient Smoke (08B)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord-Sunglasses-0144-8B.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0
+- :name: Shiny Light Ruthenium / Blue Mirror (14X)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-sun-0144-14X.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0
+- :name: Shiny Rhodium / Blue (18V)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord-Sunglasses-0144-18V.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0
+- :name: Shiny Rose Gold / Gradient Green (28P)
+  :price: 672.3
+  :retail_price: 840.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord-Sunglasses-0144-28P.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0
+- :name: Shiny Light Ruthenium / Smoke Polarized (14D)
+  :price: 775.73
+  :retail_price: 969.67
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/TomFord-Sunglasses-0144-14D.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0
+- :name: Shiny Rose Gold / Smoke Polarized (28D)
+  :price: 775.73
+  :retail_price: 969.67
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-sun-0144-28D.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 0.0

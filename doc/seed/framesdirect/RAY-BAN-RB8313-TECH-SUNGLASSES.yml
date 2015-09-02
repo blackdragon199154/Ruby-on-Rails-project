@@ -1,0 +1,93 @@
+---
+:name: RAY-BAN RB8313 TECH SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Metal
+:colors:
+- :name: Arista / Crystal Brown Gradient Lens (001/51)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB8313-001-51.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 45.7
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 48.0
+- :name: Black / Crystal Green Lens (002)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB8313-002.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 45.7
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 48.0
+- :name: Gunmetal / Crystal Green Lens (004)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB8313-004.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 45.7
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 48.0
+- :name: Silver / Crystal Grey Mirror Lens (003/40)
+  :price: 361.08
+  :retail_price: 463.36
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB8313-003-40.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 45.7
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 48.0
+- :name: Brown / Crystal Polarized Brown Lens (014/N6)
+  :price: 445.84
+  :retail_price: 576.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB8313-014-N6.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 48.0
+- :name: Gunmetal / Polarized Grey Lens (004/N5)
+  :price: 445.84
+  :retail_price: 576.38
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB8313-004-N5.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 45.7
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 140.0
+    :b: 48.0

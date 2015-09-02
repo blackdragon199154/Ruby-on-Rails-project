@@ -1,0 +1,339 @@
+---
+:name: RAY-BAN RB2132 NEW WAYFARER SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Propionate
+:colors:
+- :name: Black / Crystal Green Lens (901)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-901-52-angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-901-52-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-901-52-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-901-52-case.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-901-52-front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+- :name: Black / Crystal Green Lens (901L)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_901L_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_901L_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_901L_DETAIL.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_901L_Case.JPG
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_901L_Front.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Black Rubber / Crystal Green Lens (622)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2132-622-55-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2132-622-55-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2132-622-55-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2132-622-55-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB2132-622-55-Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Tortoise / Crystal Green Lens (902L)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB2132_902L_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB2132_902L_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB2132_902L_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB2132_902L_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB2132_902L_Front.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Light Blue Rubber / Crystal Grey Gradient Lens (811/32)
+  :price: 242.42
+  :retail_price: 305.14
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB2132__811_32.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-81132-52-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-rb2132-81132-52-detail.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Black / Crystal Green Polarized Lens (901/58)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_90158_Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_90158_Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_90158_Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_90158_Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan_Sun_RB2132_90158_Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Honey / Crystal Brown Lens (945L)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB2132__945L.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Black On Beige / Crystal Green Lens (875)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-0RB2132-875.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Black On Transparent / Green Lens (6052)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-6052.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Havana On Beige / Crystal Brown Lens (6012)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2132-6012.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Havana On Green / Green Lens (6013)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2132-6013.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Tortoise / Crystal Green Lens (902)
+  :price: 233.94
+  :retail_price: 293.84
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_RB2132_902L_Angle.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+- :name: Top Brown On Blue / Crystal Brown Gradient Lens (874/51)
+  :price: 242.42
+  :retail_price: 305.14
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-0RB2132-874-51.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Havana On Yellow / Brown Gradient Lens (601485)
+  :price: 242.42
+  :retail_price: 305.14
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB2132-601485.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Matte Blue On Transparent / Grey Gradient Lens (605371)
+  :price: 242.42
+  :retail_price: 305.14
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-605371.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Matte Bordo' On Transparent / Brown Gradient Lens (605485)
+  :price: 242.42
+  :retail_price: 305.14
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-605485.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Black On Transparent / Green Polarized Lens (605258)
+  :price: 310.23
+  :retail_price: 395.55
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-605258.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Blue Gradient On Transparent / Crystal Polarized Blue Gradient Grey Lens
+    (822/78)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB2132__822_78.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Matte Black / Polarized Blue Grad. Grey Lens (601S78)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-0RB2132-601S78.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Matte Havana / Blue-Green Mirror Polar Lens (894/76)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-0RB2132-894-76.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Blue On Transparent / Gradient Grey Polar Lens (6053M3)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-6053M3.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Top Bordeaux On Trasparent / Gradient Brown Polar Lens (6054M2)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-6054M2.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7
+- :name: Tortoise / Crystal Green Polarized Lens (902/58)
+  :price: 318.7
+  :retail_price: 406.85
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB2132-902-58.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 37.4
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 40.7

@@ -1,0 +1,12 @@
+//= require jquery.validate/jquery.validate.min
+//= require spree
+//= require store/checkout
+//= require ./product
+//= require store/cart
+//= require store/spree_i18n
+//= require store/spree_admin_roles_and_access
+//= require store/spree_gift_card
+//= require store/spree_paypal_express
+//= require store/spree_multi_slideshow
+//= require store/spree_promotion_roles_rule
+//= require store/spree_contact_us

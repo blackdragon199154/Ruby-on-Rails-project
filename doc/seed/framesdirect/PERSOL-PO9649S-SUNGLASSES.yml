@@ -1,0 +1,97 @@
+---
+:name: PERSOL PO9649S SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Black / Crystal Green Lens (95/31)
+  :price: 475.79
+  :retail_price: 634.4
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-PO9649S-95-31.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 46.0
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 48.7
+- :name: Havana / Crystal Green Lens (24/31)
+  :price: 475.79
+  :retail_price: 634.4
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-PO9649S-24-31.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 46.0
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 48.7
+- :name: Havana Brown Smoke / Brown Gradient Lens (972/51)
+  :price: 475.79
+  :retail_price: 634.4
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-PO9649S-972-51.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 46.0
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 48.7
+- :name: Terra Di Siena / Blue Lens (96/56)
+  :price: 475.79
+  :retail_price: 634.4
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-PO9649S-96-56.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 46.0
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 48.7
+- :name: Black / Crystal Green Polarized Lens (95/58)
+  :price: 550.72
+  :retail_price: 734.3
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-PO9649S-95-58.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 46.0
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 48.7
+- :name: Havana / Crystal Brown Polarized Lens (24/57)
+  :price: 550.72
+  :retail_price: 734.3
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-PO9649S-24-57.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 46.0
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 48.7

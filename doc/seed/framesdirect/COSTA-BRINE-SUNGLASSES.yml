@@ -1,0 +1,581 @@
+---
+:name: COSTA BRINE SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Nylon
+:colors:
+- :name: Black / Copper 580P Polarized Polycarbonate (BR-11-OCP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Cop580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Gray 580P Polarized Polycarbonate (BR-11-OGP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Sunrise 580P Polarized Polycarbonate (BR-11-OSP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk_Sun.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black/ Amber 580P Polarized Polycarbonate (BR-11-OAP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Amber 580P Polarized Polycarbonate (BR-71-OAP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Copper 580P Polarized Polycarbonate (BR-71-OCP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Gray 580P Polarized Polycarbonate (BR-71-OGP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Amber 580P Polarized Polycarbonate (BR-22-OAP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Brine-Gunmetal-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Copper 580P Polarized Polycarbonate (BR-22-OCP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gnmtl-Cop580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Gray 580P Polarized Polycarbonate (BR-22-OGP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gunmtl-Gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Amber 580P Polarized Polycarbonate (BR-39-OAP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Copper 580P Polarized Polycarbonate (BR-39-OCP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Gray 580P Polarized Polycarbonate (BR-39-OGP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Copper 580P Polarized Polycarbonate (BR-10-OCP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Cop580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Gray 580P Polarized Polycarbonate (BR-10-OGP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Sunrise 580P Polarized Polycarbonate (BR-10-OSP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-tortoise-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise/ Amber 580P Polarized Polycarbonate (BR-10-OAP)
+  :price: 359.39
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Amber.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Blue Mirror 400G LightWAVE Polarized Glass (BR-11-BMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Green Mirror 400G LightWAVE Polarized Glass (BR-11-GMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Grn.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Blue Mirror 400G LightWAVE Polarized Glass (BR-71-BMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Green Mirror 400G LightWAVE Polarized Glass (BR-71-GMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Blue Mirror 400G LightWAVE Polarized Glass (BR-22-BMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gunmtl-Blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Green Mirror 400G LightWAVE Polarized Glass (BR-22-GMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gunmtl-Green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Blue Mirror 400G LightWAVE Polarized Glass (BR-39-BMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Green Mirror 400G LightWAVE Polarized Glass (BR-39-GMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Blue Mirror 400G LightWAVE Polarized Glass (BR-10-BMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Green Mirror 400G LightWAVE Polarized Glass (BR-10-GMGLP)
+  :price: 427.2
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Grn.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Copper 580G LightWAVE Polarized Glass (BR-11-OCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Cop580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Gray 580G LightWAVE Polarized Glass (BR-11-OGGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-gray-580g.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Copper 580G LightWAVE Polarized Glass (BR-71-OCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Gray 580G LightWAVE Polarized Glass (BR-71-OGGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Copper 580G LightWAVE Polarized Glass (BR-22-OCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gnmtl-Cop580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Gray 580G LightWAVE Polarized Glass (BR-22-OGGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gnmtl-Gry580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Copper 580G LightWAVE Polarized Glass (BR-39-OCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-copper.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Gray 580G LightWAVE Polarized Glass (BR-39-OGGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Copper 580G LightWAVE Polarized Glass (BR-10-OCGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Cop580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Gray 580G LightWAVE Polarized Glass (BR-10-OGGLP)
+  :price: 495.01
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Gray.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Blue Mirror 580G LightWAVE Polarized Glass (BR-11-OBMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Blue580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Copper with Silver Mirror 580G LightWAVE Polarized Glass (BR-11-OSCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Brine-BLK-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Black / Green Mirror 580G LightWAVE Polarized Glass (BR-11-OGMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Blk-Grn.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Blue Mirror 580G LightWAVE Polarized Glass (BR-71-OBMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Copper with Silver Mirror 580G LightWAVE Polarized Glass
+    (BR-71-OSCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Crystal Bronze / Green Mirror 580G LightWAVE Polarized Glass (BR-71-OGMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-crystal-bronze-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Blue Mirror 580G LightWAVE Polarized Glass (BR-22-OBMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gnmtl-Blu580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Copper with Silver Mirror 580G LightWAVE Polarized Glass (BR-22-OSCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-Brine-Gunmetal-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Gunmetal / Green Mirror 580G LightWAVE Polarized Glass (BR-22-OGMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Gnmtl-Grn580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Blue Mirror 580G LightWAVE Polarized Glass (BR-39-OBMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-blue.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Copper with Silver Mirror 580G LightWAVE Polarized Glass
+    (BR-39-OSCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Matte Crystal / Green Mirror 580G LightWAVE Polarized Glass (BR-39-OGMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-brine-matte-crystal-green.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Blue Mirror 580G LightWAVE Polarized Glass (BR-10-OBMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Blue580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Copper with Silver Mirror 580G LightWAVE Polarized Glass (BR-10-OSCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Silver.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0
+- :name: Tortoise / Green Mirror 580G LightWAVE Polarized Glass (BR-10-OGMGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-Del-Mar-Brine-sunglasses-Tort-Grn580.jpg
+  :variants:
+  - {}
+  - :eye: 59.0
+    :bridge: 19.0
+    :temple: 133.0
+    :b: 0.0

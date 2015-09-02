@@ -1,0 +1,158 @@
+---
+:category: Eyeglasses
+:name: OAKLEY SERVO EYEGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Black Brick - Size 51 (OX1066-0451)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Servo-Black-Brick-OX1066-0451-2100x760-300.jpg
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0451-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0451-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0451-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0451-Front.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 28.3
+- :name: Grey Tortoise - Size 53 (OX1066-0253)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-servo-eyeglasses-grey-tortoise.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0253-53-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0253-53-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0253-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-case-1.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0253-53-front.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 29.4
+- :name: Polished Black - Size 53 (OX1066-0153)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-servo-eyeglasses-polished-Black.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0153-53-side.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0153-53-detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0153-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-case-1.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0153-53-front.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 29.4
+- :name: Satin Steel - Size 53 (OX1066-0553)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Detail.jpg
+  - http://www.framesdirect.com/product_elarge_images/oakley-eye-servo-0553-model.jpg
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Front.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 29.4
+- :name: Black Brick - Size 53 (OX1066-0453)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-servo-eyeglasses-black-brick.jpg
+  :variants:
+  - {}
+  - :eye: 53.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 29.4
+- :name: Black Brick - Size 57 (OX1066-0457)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-servo-eyeglasses-black-brick.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 34.4
+- :name: Polished Black - Size 51 (OX1066-0151)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Servo-Polished-Black-OX1066-0151-2100x726-300.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 28.3
+- :name: Polished Black - Size 55 (OX1066-0155)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-servo-eyeglasses-polished-Black.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 30.5
+- :name: Polished Black - Size 57 (OX1066-0157)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-servo-eyeglasses-polished-Black.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 34.4
+- :name: Satin Steel - Size 51 (OX1066-0551)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Angle.jpg
+  :variants:
+  - {}
+  - :eye: 51.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 28.3
+- :name: Satin Steel - Size 55 (OX1066-0555)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Angle.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 18.0
+    :temple: 140.0
+    :b: 30.5
+- :name: Satin Steel - Size 57 (OX1066-0557)
+  :price: 375.84
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Eye-ServoOX1066-0553-53-Angle.jpg
+  :variants:
+  - {}
+  - :eye: 57.0
+    :bridge: 18.0
+    :temple: 145.0
+    :b: 34.4

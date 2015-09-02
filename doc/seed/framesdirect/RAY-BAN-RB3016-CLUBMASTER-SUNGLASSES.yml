@@ -1,0 +1,191 @@
+---
+:name: RAY-BAN RB3016 CLUBMASTER SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Ebony-Arista / Crystal Green Lens (W0365)
+  :price: 259.37
+  :retail_price: 327.74
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB3016-W0365-51-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB3016-W0365-51-Side.JPG
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB3016-W0365-51-Detail.JPG
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB3016-W0365-51-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/RayBan-Sun-RB3016-W0365-51-Front.JPG
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Mock Tortoise-Arista / Crystal Green Lens (W0366)
+  :price: 259.37
+  :retail_price: 327.74
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/RayBan_sunglasses_RB3016__W0366.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Top Black On Red-Black / Crystal Grey Gradient Lens (110371)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/rayban-sun-0RB3016-110371.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Top Shiny Havana On Green / Green Lens (1127)
+  :price: 267.85
+  :retail_price: 339.05
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB3016-1127.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Top Dark Havana On Orange / Brown Gradient Lens (112685)
+  :price: 276.32
+  :retail_price: 350.35
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB3016-112685.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Sand Havana-Gold / Grey Mirror Blue Lens (114517)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB3016-114517.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Sand Havana-Gold / Grey Mirror Green Lens (114519)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB3016-114519.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Sand Havana-Gold / Light Green Mirror Silver Lens (114530)
+  :price: 284.8
+  :retail_price: 361.65
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-RB3016-114530.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Matte Black / Polarized Grey Lens (901SP2)
+  :price: 344.13
+  :retail_price: 440.76
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3016-901SP2.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Matte Black / Polarized Sky Blue Lens (901S3R)
+  :price: 344.13
+  :retail_price: 440.76
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3016-901S3R.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Matte Red Havana / Polarized Dark Pink Lens (114515)
+  :price: 344.13
+  :retail_price: 440.76
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3016-114515.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9
+- :name: Matte Red Havana / Polarized Green Lens (1145O5)
+  :price: 344.13
+  :retail_price: 440.76
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/ray-ban-sun-0RB3016-1145O5.jpg
+  :variants:
+  - {}
+  - :eye: 49.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 42.3
+  - :eye: 51.0
+    :bridge: 21.0
+    :temple: 145.0
+    :b: 43.9

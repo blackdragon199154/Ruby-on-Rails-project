@@ -1,0 +1,121 @@
+---
+:name: OAKLEY RADARLOCK PATH SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Unisex
+:material: O Matter
+:colors:
+- :name: Infrared / Positive Red Mirrored Iridium Lens (OO9181-16)
+  :price: 497.27
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlockpath-sunglasses-OO9181-16.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Matte Heather Grey / G30 Iridium Vented & Grey Vented (OO9181-04)
+  :price: 497.27
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-Radarlock-Path-Heather-Grey-w-G30-Iridium-OO9181-04-2100x1215.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Polished Black / Black Mirrored Iridium Vented & VR28 (OO9181-19)
+  :price: 497.27
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlockpath-sunglasses-OO9181-19.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Polished White / Jade Mirrored Iridium Vented & VR28 Vented (OO9181-22)
+  :price: 497.27
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlockpath-sunglasses-OO9181-22.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Silver / Ice Mirrored Iridium Vented & VR28 Vented Lens (OO9181-21)
+  :price: 497.27
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlock-path-sunglasses-oo9181-21.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Blood Orange / Fire Iridium Polarized Vented and Black Mirrored Iridium Lens
+    (OO9181-24)
+  :price: 678.09
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlock-path-sunglasses-oo9181-24.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Matte Black Ink / OO Red Mirrored Iridium Polarized Vented and Black Mirrored
+    Iridium Lens (OO9181-23)
+  :price: 678.09
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlock-path-sunglasses-oo9181-23.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Matte White / Grey Polarized and VR28 Black Mirrored Iridium Lens (OO9181-20)
+  :price: 678.09
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlock-path-sunglasses-oo9181-20.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Polished Black / Black Mirrored Iridium Polarized and VR28 Black Mirrored
+    Iridium Lens (OO9181-12)
+  :price: 678.09
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Oakley-radarlock-path-sunglasses-oo9181-12.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0
+- :name: Polished Black / Brown Polarized Vented & Deep Blue Polarized Vented lense
+    (OO9181-25)
+  :price: 858.91
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/oakley-radarlock-path-sunglassesOO9181-25.jpg
+  :variants:
+  - {}
+  - :eye: 56.0
+    :bridge: 27.0
+    :temple: 0.0
+    :b: 31.0

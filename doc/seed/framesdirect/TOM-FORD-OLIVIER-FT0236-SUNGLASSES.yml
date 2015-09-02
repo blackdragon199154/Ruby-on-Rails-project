@@ -1,0 +1,62 @@
+---
+:name: TOM FORD OLIVIER FT0236 SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Black / Gradient Smoke (05B)
+  :price: 696.17
+  :retail_price: 870.22
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-sun-0236-olivier-05B.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 0.0
+- :name: Dark Brown / Gradient Brown (50P)
+  :price: 696.17
+  :retail_price: 870.22
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-sun-0236-olivier-50P.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 0.0
+- :name: Dark Havana / Green Mirror (52Q)
+  :price: 696.17
+  :retail_price: 870.22
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-0236-sunglasses-52Q.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 0.0
+- :name: Red Havana / Smoke (54A)
+  :price: 696.17
+  :retail_price: 870.22
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-sun-0236-olivier-54A.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 0.0
+- :name: Matte Black / Smoke Polarized (02D)
+  :price: 815.52
+  :retail_price: 1019.4
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/tom-ford-sun-olivier-02D.jpg
+  :variants:
+  - {}
+  - :eye: 58.0
+    :bridge: 15.0
+    :temple: 145.0
+    :b: 0.0

@@ -1,0 +1,820 @@
+---
+:name: COSTA TUNA ALLEY SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Nylon
+:colors:
+- :name: Black / Amber 580P Polarized Polycarbonate (TA-11-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Copper 580P Polarized Polycarbonate (TA-11-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-Black-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Gray 580P Polarized Polycarbonate (TA-11-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Sunrise 580P Polarized Polycarbonate (TA-11-OSP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-black-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Amber 580P Polarized Polycarbonate (TA-01-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Copper 580P Polarized Polycarbonate (TA-01-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Gray 580P Polarized Polycarbonate (TA-01-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Amber 580P Polarized Polycarbonate (TA-39-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Copper 580P Polarized Polycarbonate (TA-39-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Gray 580P Polarized Polycarbonate (TA-39-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Amber 580P Polarized Polycarbonate (TA-71-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Copper 580P Polarized Polycarbonate (TA-71-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Gray 580P Polarized Polycarbonate (TA-71-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Amber 580P Polarized Polycarbonate (TA-10-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Copper 580P Polarized Polycarbonate (TA-10-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Gray 580P Polarized Polycarbonate (TA-10-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Sunrise 580P Polarized Polycarbonate (TA-10-OSP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-tortoise-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Amber 580P Polarized Polycarbonate (TA-25-OAP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Copper 580P Polarized Polycarbonate (TA-25-OCP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Gray 580P Polarized Polycarbonate (TA-25-OGP)
+  :price: 381.99
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Amber 580P Polarized Polycarbonate (TA-65-OAP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-tuna-alley-mossy-oak-amber.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Copper 580P Polarized Polycarbonate
+    (TA-65-OCP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-tuna-alley-mossy-oak-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Gray 580P Polarized Polycarbonate (TA-65-OGP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-tuna-alley-mossy-oak-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Sunrise 580P Polarized Polycarbonate
+    (TA-65-OSP)
+  :price: 404.59
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-mossy-oak-shadow-grass-blades-camo-sunrise.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Blue Mirror 400G LightWAVE Polarized Glass (TA-11-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Green Mirror 400G LightWAVE Polarized Glass (TA-11-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Blue Mirror 400G LightWAVE Polarized Glass (TA-01-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Green Mirror 400G LightWAVE Polarized Glass (TA-01-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Blue Mirror 400G LightWAVE Polarized Glass (TA-39-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Green Mirror 400G LightWAVE Polarized Glass (TA-39-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Blue Mirror 400G LightWAVE Polarized Glass (TA-71-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Green Mirror 400G LightWAVE Polarized Glass (TA-71-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Blue Mirror 400G LightWAVE Polarized Glass (TA-10-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Green Mirror 400G LightWAVE Polarized Glass (TA-10-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Blue Mirror 400G LightWAVE Polarized Glass (TA-25-BMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Green Mirror 400G LightWAVE Polarized Glass (TA-25-GMGLP)
+  :price: 449.8
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Blue Mirror 400G LightWAVE Polarized
+    Glass (TA-65-BMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-mossy-oak-shadow-grass-blades-camo-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Green Mirror 400G LightWAVE Polarized
+    Glass (TA-65-GMGLP)
+  :price: 472.4
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-tuna-alley-mossy-oak-green-mirror.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Copper 580G LightWAVE Polarized Glass (TA-11-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-Black-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Gray 580G LightWAVE Polarized Glass (TA-11-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Copper 580G LightWAVE Polarized Glass (TA-01-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Gray 580G LightWAVE Polarized Glass (TA-01-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Copper 580G LightWAVE Polarized Glass (TA-39-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Gray 580G LightWAVE Polarized Glass (TA-39-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Copper 580G LightWAVE Polarized Glass (TA-71-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Gray 580G LightWAVE Polarized Glass (TA-71-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Copper 580G LightWAVE Polarized Glass (TA-10-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Gray 580G LightWAVE Polarized Glass (TA-10-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Copper 580G LightWAVE Polarized Glass (TA-25-OCGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Gray 580G LightWAVE Polarized Glass (TA-25-OGGLP)
+  :price: 517.61
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Copper 580G LightWAVE Polarized Glass
+    (TA-65-OCGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-mossy-oak-shadow-grass-blades-camo-copper.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Gray 580G LightWAVE Polarized Glass
+    (TA-65-OGGLP)
+  :price: 540.21
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-tuna-alley-mossy-oak-gray.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Blue Mirror 580G LightWAVE Polarized Glass (TA-11-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TA-11-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-silver-L1.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Black / Green Mirror 580G LightWAVE Polarized Glass (TA-11-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-black-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Blue Mirror 580G LightWAVE Polarized Glass (TA-01-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TA-01-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-silver.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Blackout / Green Mirror 580G LightWAVE Polarized Glass (TA-01-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-blackout-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Blue Mirror 580G LightWAVE Polarized Glass (TA-39-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TA-39-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-silver.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal / Green Mirror 580G LightWAVE Polarized Glass (TA-39-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-crystal-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Blue Mirror 580G LightWAVE Polarized Glass (TA-71-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Copper with Silver Mirror 580G LightWAVE Polarized Glass
+    (TA-71-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-silver.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Crystal Bronze / Green Mirror 580G LightWAVE Polarized Glass (TA-71-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-crystal-bronze-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Blue Mirror 580G LightWAVE Polarized Glass (TA-10-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TA-10-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-silver.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Tortoise / Green Mirror 580G LightWAVE Polarized Glass (TA-10-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-tortoise-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Blue Mirror 580G LightWAVE Polarized Glass (TA-25-OBMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Copper with Silver Mirror 580G LightWAVE Polarized Glass (TA-25-OSCGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-silver.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: White / Green Mirror 580G LightWAVE Polarized Glass (TA-25-OGMGLP)
+  :price: 562.81
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Costa-del-mar-TunaAlley-sunglasses-white-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Blue Mirror 580G LightWAVE Polarized
+    Glass (TA-65-OBMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-mossy-oak-shadow-grass-blades-camo-blue.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Copper with Silver Mirror 580G LightWAVE
+    Polarized Glass (TA-65-OSCGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-tuna-alley-mossy-oak-silver.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0
+- :name: Mossy Oak Shadow Grass Blades Camo / Green Mirror 580G LightWAVE Polarized
+    Glass (TA-65-OGMGLP)
+  :price: 585.42
+  :retail_price: 
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/costa-del-mar-sun-tuna-alley-mossy-oak-shadow-grass-blades-camo-green.jpg
+  :variants:
+  - {}
+  - :eye: 61.0
+    :bridge: 13.0
+    :temple: 115.0
+    :b: 40.0

@@ -1,0 +1,56 @@
+---
+:name: PERSOL PO0714 FOLDING SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Acetate
+:colors:
+- :name: Havana / Crystal Brown Polarized Lens (24/57)
+  :price: 633.16
+  :retail_price: 844.2
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0714-2457-52-Angle.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0714-2457-52-Side.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0714-2457-52-Detail2.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0714-2457-52-Case.jpg
+  - http://www.framesdirect.com/product_elarge_images/Persol-Sun-PO0714-2457-52-Front.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 46.7
+  - :eye: 54.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 48.3
+- :name: Light Havana / Crystal Brown Lens (96/33)
+  :price: 524.5
+  :retail_price: 699.34
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-0714-sunglasses-96-33.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 46.7
+  - :eye: 54.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 48.3
+- :name: Black / Crystal Green Polarized Lens (95/58)
+  :price: 633.16
+  :retail_price: 844.2
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/Persol-0714-sunglasses-95-58.jpg
+  :variants:
+  - {}
+  - :eye: 52.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 46.7
+  - :eye: 54.0
+    :bridge: 21.0
+    :temple: 140.0
+    :b: 48.3

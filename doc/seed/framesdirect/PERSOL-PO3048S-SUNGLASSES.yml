@@ -1,0 +1,97 @@
+---
+:name: PERSOL PO3048S SUNGLASSES
+:description: ''
+:brand: ''
+:gender: Men
+:material: Plastic
+:colors:
+- :name: Black / Crystal Green Lens (95/31)
+  :price: 359.66
+  :retail_price: 479.55
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3048S-95-31.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 38.6
+  - :eye: 58.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 40.8
+- :name: Caffe' / Brown Lens (900733)
+  :price: 359.66
+  :retail_price: 479.55
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3048S-900733.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 38.6
+  - :eye: 58.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 40.8
+- :name: Havana / Crystal Green Lens (24/31)
+  :price: 359.66
+  :retail_price: 479.55
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3048S-24-31.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 38.6
+  - :eye: 58.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 40.8
+- :name: Honey Havana / Gradient Brown Lens (900851)
+  :price: 378.4
+  :retail_price: 504.52
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3048S-900851.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 38.6
+  - :eye: 58.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 40.8
+- :name: Black / Polarized Grey Lens (900058)
+  :price: 442.09
+  :retail_price: 589.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3048S-900058.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 38.6
+  - :eye: 58.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 40.8
+- :name: Havana / Crystal Brown Polarized Lens (24/57)
+  :price: 442.09
+  :retail_price: 589.44
+  :images:
+  - http://www.framesdirect.com/product_elarge_images/persol-sun-0PO3048S-24-57.jpg
+  :variants:
+  - {}
+  - :eye: 55.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 38.6
+  - :eye: 58.0
+    :bridge: 19.0
+    :temple: 145.0
+    :b: 40.8
